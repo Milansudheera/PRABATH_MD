@@ -1,15 +1,15 @@
 {
                "name": "SUDHEERA-MD",
                "version": "5.0.0",
-               "description": "Multi device whatsapp bot by prabath.",
+               "description": "Multi device whatsapp bot SUDHEERA MD.",
                "main": "lib/client.js",
                "type": "commonjs",
                "license": "GPL-3.0",
    "scripts": {
-                "start": "pm2 start lib/client.js --deep-monitoring --attach --name SUDHEERA",
-                "stop": "pm2 stop SUDHEERA"
+                "start": "pm2 start lib/client.js --deep-monitoring --attach --name SUDHEERA MD",
+                "stop": "pm2 stop SUDHEERA MD"
                 },
-               "author": "SamPandey001 & Prabath & Sachintha",
+               "author": "SamPandey001 & SUDHEERA MD & Sachintha",
               "dependencies": {
                        "@whiskeysockets/baileys": "git+https://github.com/sampandey001/baileys",
                        "@adiwajshing/keyed-db": "^0.2.4",
